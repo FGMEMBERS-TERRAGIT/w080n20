@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -77.151667 20.33 -82.44 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -77.208611 20.271111 -410.23 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -77.1567 20.33 1.53 349.51
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -77.215 20.3467 -0.03 128.42
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -77.145 20.37 -0.55 137.19

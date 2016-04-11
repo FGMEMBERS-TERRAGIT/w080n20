@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.594444 20.73 -350.65 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.546111 20.695278 -426.74 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -75.576111 20.652222 69.9 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.5483 20.72 -5.02 49.05
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.5067 20.7267 -8.02 30.09
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.5767 20.745 -0.09 256.73
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.5367 20.7183 -8.18 101.92
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.5117 20.7233 -7.72 9.59
