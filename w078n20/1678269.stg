@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -77.258333 20.906389 -97.8 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -77.287778 20.904722 -386.01 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -77.2875 20.904444 -386.68 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -77.287222 20.904722 -393.36 180

@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -75.405 20.6775 68.52 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -75.377778 20.67 47.8 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.49 20.7183 -3.02 327.11
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.4967 20.7233 -3.05 275.38

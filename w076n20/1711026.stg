@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.655453 20.759321 -417.13 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.655103 20.759013 -414.66 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.655 20.758611 -414.48 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.73 20.8183 -1.95 42.16
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.72 20.8167 -3.45 41.09
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.6967 20.81 -6.52 292.07
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.7467 20.815 -0.87 121.84
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.73 20.815 -2.26 264.99
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.71 20.8117 -5.08 97.51
